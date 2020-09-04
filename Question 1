@@ -1,0 +1,4 @@
+in Python
+printf(len("About BeezLabs"));
+
+Output - 14
